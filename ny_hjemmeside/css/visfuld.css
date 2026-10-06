@@ -139,3 +139,47 @@ hr {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
   pointer-events: none;
 }
+
+/* Grønlandskortet til højre på by-siderne (vektor, som det gamle map<By>.jpg) */
+.bykort {
+  display: block;
+  width: 400px;
+  height: 535px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bykort .land {
+  fill: #ffffff;
+  stroke: #658594;
+  stroke-width: 3;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+}
+
+.bykort .prik {
+  fill: #3d7a87;
+}
+
+.bykort text {
+  font-size: 12px;
+  font-weight: bold;
+  fill: #000000;
+  paint-order: stroke;
+  stroke: #ffffff;
+  stroke-width: 3px;
+  stroke-linejoin: round;
+}
+
+.bykort .anden .prik {
+  fill: #9bb5bd;
+  transition: fill 0.15s;
+}
+
+.bykort .by:hover .prik,
+.bykort .by:focus-visible .prik {
+  fill: #cb161c;
+}
+
+.bykort a:hover {
+  text-decoration: none;
+}

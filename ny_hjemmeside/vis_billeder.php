@@ -1,5 +1,6 @@
 <?php
 require __DIR__ . '/includes/data.php';
+require __DIR__ . '/includes/kort.php';
 
 $by = $byer[(int) ($_GET['byid'] ?? 0)] ?? null;
 if ($by === null) {
@@ -65,7 +66,7 @@ function sidenavigation(int $side, int $antal_sider): string
 <?php endforeach; ?>
       </div>
     </td>
-    <td valign="top"><div class="mellemrum_top"></div><img src="billeder/map<?= rawurlencode($by['navn']) ?>.jpg" width="400" height="535" alt="Kort over <?= h($by['navn']) ?>"></td>
+    <td valign="top"><div class="mellemrum_top"></div><?= gronlandskort($byer, array_count_values(array_column($billeder, 'by_id')), $by['id']) ?></td>
   </tr>
 </table>
 </body>
