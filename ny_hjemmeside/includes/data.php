@@ -16,6 +16,9 @@ $byer = array_column($data['byer'], null, 'id');
 /** @var array<int, array> $billeder  billed-id => billede */
 $billeder = array_column($data['billeder'], null, 'id');
 
+/** Mailadressen på siden. Den står ikke direkte i HTML'en, så spam-robotter ikke kan samle den op. */
+const KONTAKT_MAIL = 'rm@rmfoto.dk';
+
 /** Escaper tekst til HTML. */
 function h(?string $tekst): string
 {
@@ -78,4 +81,10 @@ function billed_tabel(array $liste): string
         $html .= '</tr>';
     }
     return $html . '</table>';
+}
+
+/** Link til mailadressen. Adressen står baglæns i HTML'en og vendes af js/mail.js. */
+function mail_link(): string
+{
+    return '<a class="mail" href="#" data-mail="' . h(strrev(KONTAKT_MAIL)) . '">Send en mail</a>';
 }

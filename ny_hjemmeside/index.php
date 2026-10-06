@@ -27,9 +27,7 @@ $antal = array_count_values(array_column($billeder, 'by_id'));
   <ul class="kontakt">
     <li>Stationsvej 81</li>
     <li>DK 3650 Ølstykke</li>
-    <li><a href="mailto:rm@rmfoto.dk">rm@rmfoto.dk</a></li>
-    <li><a href="tel:+4521784321">+45 21 78 43 21</a></li>
-    <li><a href="tel:+4551515218">+45 51 51 52 18</a></li>
+    <li><?= mail_link() ?></li>
   </ul>
   <form class="sog" method="get" action="sog.php" role="search">
     <input name="sog" type="search" placeholder="Søg i billeder" aria-label="Søg i billeder">
@@ -59,5 +57,6 @@ $antal = array_count_values(array_column($billeder, 'by_id'));
   <p class="lande">Danmark <span>&#9632;</span> Island <span>&#9632;</span> Færøerne</p>
   <p class="links"><a href="sitemap.php">Sitemap</a> <span>·</span> © RMfoto</p>
 </footer>
+<script src="js/mail.js"></script>
 </body>
 </html>

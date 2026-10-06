@@ -1,8 +1,7 @@
 /* Forsiden: fylder hele skærmen og skalerer med vinduet */
 :root {
   --hav: #9ecad5;
-  --land: #f3f8f9;
-  --kyst: #3d6f7c;
+  --kyst: #658594;
   --moerk: #1d3b44;
   --roed: #cb161c;
   --bund: #72949e;
@@ -163,19 +162,19 @@ a {
 }
 
 .land {
-  fill: var(--land);
+  /* Som det gamle kort: samme blå som havet, kun kystlinjen er tegnet */
+  fill: var(--hav);
   stroke: var(--kyst);
-  stroke-width: 1.2;
+  stroke-width: 1.5;
   stroke-linejoin: round;
   vector-effect: non-scaling-stroke;
-  filter: drop-shadow(0 4px 10px rgba(29, 59, 68, 0.18));
 }
 
 .landnavn {
   font-size: 15px;
   font-weight: 700;
   letter-spacing: 3px;
-  fill: #8fb3bd;
+  fill: #658594;
 }
 
 .by {
@@ -186,17 +185,17 @@ a {
 .by text {
   font-size: 11.5px;
   font-weight: 700;
-  fill: var(--moerk);
-  /* lys kant om bogstaverne, så de står skarpt oven på kystlinjen */
+  fill: #000000;
+  /* kant i havfarven om bogstaverne, så de står skarpt oven på kystlinjen */
   paint-order: stroke;
-  stroke: var(--land);
+  stroke: var(--hav);
   stroke-width: 3px;
   stroke-linejoin: round;
   transition: fill 0.15s;
 }
 
 .by .prik {
-  fill: var(--kyst);
+  fill: #3d7a87;
   transition: fill 0.15s;
 }
 
