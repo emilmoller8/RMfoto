@@ -1,0 +1,5 @@
+DirectoryIndex index.php index.html
+AddDefaultCharset UTF-8
+
+# Data og hjælpefiler skal ikke kunne hentes direkte
+RedirectMatch 404 ^/(data|includes)/

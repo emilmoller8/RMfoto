@@ -1,0 +1,71 @@
+/* Forsiden */
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #ffffff;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body.BG_index {
+  background-color: #9ecad5;
+}
+
+a:link,
+a:visited {
+  color: #000000;
+}
+
+a:hover {
+  color: #999999;
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: #000000;
+}
+
+img {
+  border: 0;
+}
+
+.ramme {
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.logo {
+  background: #ffffff;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.rm-logo {
+  vertical-align: bottom;
+}
+
+.prik {
+  color: #cb161c;
+}
+
+.sogefelt {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin: 8px 4px;
+}
+
+.bund {
+  background-image: url(../billeder/bund.JPG);
+}
+
+.bund img {
+  display: block;
+}

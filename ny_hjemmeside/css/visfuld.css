@@ -1,0 +1,141 @@
+/* By-galleri, søgning, sitemap og stort billede */
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #ffffff;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+img {
+  border: 0;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #658594;
+}
+
+.ramme {
+  height: 100%;
+  border-collapse: collapse;
+}
+
+.venstre_kandt,
+.venstre_bg {
+  background-color: #add2db;
+}
+
+.mellemrum_top {
+  height: 40px;
+}
+
+.mellemrum_under_top {
+  height: 50px;
+}
+
+.mellem_vk_billed {
+  width: 20px;
+}
+
+.stor_venstre {
+  padding-left: 50px;
+}
+
+.stor_top {
+  height: 50px;
+}
+
+.stor_by {
+  height: 70px;
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+.stor_tekst {
+  margin: 0 0 0 4px;
+}
+
+/* Miniaturer med skygge */
+.billedtabel {
+  border-collapse: collapse;
+}
+
+.skygge {
+  border-collapse: collapse;
+}
+
+.skygge td {
+  padding: 0;
+}
+
+.skygge img {
+  display: block;
+}
+
+.skygge .miniature {
+  border: 1px solid #658594;
+}
+
+.skygge_l {
+  width: 6px;
+  vertical-align: top;
+  background-image: url(../billeder/skygge_h/hl.png);
+}
+
+.skygge_v {
+  height: 6px;
+  background-image: url(../billeder/skygge_h/nl.png);
+}
+
+.sidenavigation {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.sidenavigation a {
+  padding: 0 2px;
+}
+
+.sogefelt {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.overskrift {
+  font-size: 24px;
+}
+
+.sitemap a:hover {
+  color: #000000;
+}
+
+/* Billedtekst når et billede vises stort */
+.pswp__billedtekst {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 16px;
+  text-align: center;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+  pointer-events: none;
+}
