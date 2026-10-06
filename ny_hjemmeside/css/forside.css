@@ -1,0 +1,368 @@
+/* Forsiden: fylder hele skærmen og skalerer med vinduet */
+:root {
+  --hav: #9ecad5;
+  --land: #f3f8f9;
+  --kyst: #3d6f7c;
+  --moerk: #1d3b44;
+  --roed: #cb161c;
+  --bund: #72949e;
+  --skygge: 0 6px 24px rgba(29, 59, 68, 0.28);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  background: var(--hav);
+  color: var(--moerk);
+  font-family: 'Open Sans', system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.4;
+}
+
+a {
+  color: inherit;
+}
+
+/* ---------- Top ---------- */
+.top {
+  display: flex;
+  align-items: center;
+  gap: 12px 28px;
+  padding: 10px clamp(16px, 4vw, 64px);
+  background: #ffffff;
+  box-shadow: 0 1px 8px rgba(29, 59, 68, 0.15);
+  position: relative;
+  z-index: 1;
+}
+
+.navn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  font-size: 18px;
+  white-space: nowrap;
+}
+
+.kontakt {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 15px;
+}
+
+.kontakt li::before {
+  content: '\25A0';
+  color: var(--roed);
+  margin: 0 10px;
+  font-size: 0.8em;
+}
+
+.kontakt a {
+  text-decoration: none;
+}
+
+.kontakt a:hover,
+.kontakt a:focus-visible {
+  text-decoration: underline;
+}
+
+.sog {
+  display: flex;
+  margin-left: auto;
+  border: 1px solid #b9cfd5;
+  border-radius: 999px;
+  overflow: hidden;
+  background: #ffffff;
+}
+
+.sog:focus-within {
+  border-color: var(--kyst);
+  box-shadow: 0 0 0 3px rgba(61, 111, 124, 0.2);
+}
+
+.sog input {
+  width: 200px;
+  border: 0;
+  padding: 7px 4px 7px 16px;
+  font: inherit;
+  font-size: 15px;
+  background: transparent;
+  outline: none;
+}
+
+.sog button {
+  display: grid;
+  place-items: center;
+  border: 0;
+  padding: 0 14px;
+  background: var(--kyst);
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.sog button:hover {
+  background: var(--moerk);
+}
+
+/* ---------- Indhold: foto | kort | kalender ---------- */
+.forside {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 1fr 1.1fr 1fr;
+  grid-template-rows: minmax(0, 1fr);
+  align-items: center;
+  justify-items: center;
+  gap: clamp(16px, 3vw, 56px);
+  padding: clamp(16px, 3vh, 40px) clamp(16px, 4vw, 64px);
+}
+
+.forside > * {
+  margin: 0;
+  height: 100%;
+  min-height: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.signatur img {
+  display: block;
+  width: 100%;
+  max-width: 640px;
+  height: auto;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.gronlandskort {
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-height: 100%;
+  overflow: visible;
+}
+
+.land {
+  fill: var(--land);
+  stroke: var(--kyst);
+  stroke-width: 1.2;
+  stroke-linejoin: round;
+  vector-effect: non-scaling-stroke;
+  filter: drop-shadow(0 4px 10px rgba(29, 59, 68, 0.18));
+}
+
+.landnavn {
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 3px;
+  fill: #8fb3bd;
+}
+
+.by {
+  cursor: pointer;
+  outline: none;
+}
+
+.by text {
+  font-size: 11.5px;
+  font-weight: 700;
+  fill: var(--moerk);
+  /* lys kant om bogstaverne, så de står skarpt oven på kystlinjen */
+  paint-order: stroke;
+  stroke: var(--land);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+  transition: fill 0.15s;
+}
+
+.by .prik {
+  fill: var(--kyst);
+  transition: fill 0.15s;
+}
+
+.by:hover text,
+.by:focus-visible text {
+  fill: var(--roed);
+}
+
+.by:hover .prik,
+.by:focus-visible .prik {
+  fill: var(--roed);
+}
+
+.kalender {
+  text-align: center;
+}
+
+.kalender h1 {
+  margin: 0 0 0.6em;
+  font-size: clamp(16px, 1.3vw, 22px);
+  font-weight: 700;
+}
+
+.kalender h1 a,
+.kalender p a {
+  text-decoration: none;
+}
+
+.kalender h1 a:hover,
+.kalender p a:hover {
+  text-decoration: underline;
+}
+
+.plakat {
+  display: block;
+  min-height: 0;
+  max-height: calc(100% - 5em);
+}
+
+.plakat img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+  box-shadow: var(--skygge);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.plakat:hover img,
+.plakat:focus-visible img {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(29, 59, 68, 0.35);
+}
+
+.kalender p {
+  margin: 0.7em 0 0;
+}
+
+/* ---------- Bund ---------- */
+.bund {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4px 24px;
+  padding: 10px clamp(16px, 4vw, 64px);
+  background: var(--bund);
+  color: #e8eef0;
+  font-size: 14px;
+}
+
+.bund p {
+  margin: 0;
+}
+
+.lande {
+  letter-spacing: 0.25em;
+}
+
+.lande span {
+  color: var(--hav);
+  margin: 0 0.4em;
+  font-size: 0.8em;
+}
+
+.bund a {
+  color: #ffffff;
+}
+
+/* Mellemstore skærme: kontaktoplysningerne på deres egen linje */
+@media (max-width: 1250px) {
+  .top {
+    flex-wrap: wrap;
+  }
+
+  .kontakt {
+    order: 3;
+    width: 100%;
+    font-size: 14px;
+  }
+
+  .kontakt li:first-child::before {
+    content: none;
+  }
+
+  .kontakt li:first-child {
+    margin-left: 0;
+  }
+}
+
+/* Mobil og tablet på højkant: alt under hinanden */
+@media (max-width: 860px), (max-aspect-ratio: 1/1) {
+  .forside {
+    grid-template-columns: 1fr;
+    grid-template-rows: none;
+    gap: 28px;
+  }
+
+  .forside > * {
+    height: auto;
+  }
+
+  .signatur img {
+    max-height: 45vh;
+  }
+
+  .kort {
+    width: 100%;
+    max-width: 560px;
+  }
+
+  .gronlandskort {
+    height: auto;
+  }
+
+  .by text {
+    font-size: 13px;
+  }
+
+  .plakat {
+    max-height: none;
+  }
+
+  .plakat img {
+    max-width: min(100%, 340px);
+  }
+
+  .sog {
+    flex: 1 1 100%;
+    margin-left: 0;
+  }
+
+  .sog input {
+    flex: 1;
+    width: auto;
+  }
+}
+
+@media (max-width: 520px) {
+  .kontakt {
+    font-size: 13px;
+  }
+
+  .kontakt li::before {
+    margin: 0 6px;
+  }
+}
