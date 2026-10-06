@@ -1,0 +1,5 @@
+# Oprettes af admin på serveren
+ny_hjemmeside/data/admin_kodeord.php
+ny_hjemmeside/data/backup/
+ny_hjemmeside/data/.laas
+ny_hjemmeside/data/*.tmp

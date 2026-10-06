@@ -99,6 +99,7 @@
    "by_id": 9,
    "tekst": "Upernavik",
    "lille": "billeder/uploadede_billeder/9/trump_1188566582_Up09.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188566582_Up09.jpg",
    "noegleord": "Grønland,Upernavik, kirke",
    "oprettet": "2008-08-10 20:39:31"
@@ -108,6 +109,7 @@
    "by_id": 9,
    "tekst": "Upernavik",
    "lille": "billeder/uploadede_billeder/9/trump_1188566664_Up_11.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188566664_Up_11.jpg",
    "noegleord": "Grønland,Upernavik, kirke",
    "oprettet": "2008-08-10 20:39:31"
@@ -117,6 +119,7 @@
    "by_id": 9,
    "tekst": "Upernavik",
    "lille": "billeder/uploadede_billeder/9/trump_1188566694_Up_06.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188566694_Up_06.jpg",
    "noegleord": "Grønland, Upernavik, is",
    "oprettet": "2008-08-10 20:39:31"
@@ -126,6 +129,7 @@
    "by_id": 9,
    "tekst": "Upernavik",
    "lille": "billeder/uploadede_billeder/9/trump_1188566823_Up_15.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188566823_Up_15.jpg",
    "noegleord": "Grønland,Upernavik, museum, kirkegård",
    "oprettet": "2008-08-10 20:39:31"
@@ -135,6 +139,7 @@
    "by_id": 9,
    "tekst": "Upernavik",
    "lille": "billeder/uploadede_billeder/9/trump_1188567060_UP_33.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188567060_UP_33.jpg",
    "noegleord": "Grønland,Upernavik, is",
    "oprettet": "2008-08-10 20:39:31"
@@ -144,6 +149,7 @@
    "by_id": 9,
    "tekst": "Upernavik",
    "lille": "billeder/uploadede_billeder/9/trump_1188567086_UP_31.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188567086_UP_31.jpg",
    "noegleord": "Grønland,Upernavik, is",
    "oprettet": "2008-08-10 20:39:31"
@@ -153,6 +159,7 @@
    "by_id": 9,
    "tekst": "Upernavik",
    "lille": "billeder/uploadede_billeder/9/trump_1188567108_UP_32.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188567108_UP_32.jpg",
    "noegleord": "Grønland,Upernavik, is",
    "oprettet": "2008-08-10 20:39:31"
@@ -162,6 +169,7 @@
    "by_id": 9,
    "tekst": "Fanger",
    "lille": "billeder/uploadede_billeder/9/trump_1188567162_Up_19.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188567162_Up_19.jpg",
    "noegleord": "Grønland,Upernavik, fanger",
    "oprettet": "2008-08-10 20:39:31"
@@ -171,6 +179,7 @@
    "by_id": 9,
    "tekst": "Fanger ved brættet",
    "lille": "billeder/uploadede_billeder/9/trump_1188567219_Up_21.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188567219_Up_21.jpg",
    "noegleord": "Grønland,Upernavik, Fanger, brættet",
    "oprettet": "2008-08-10 20:39:31"
@@ -180,6 +189,7 @@
    "by_id": 9,
    "tekst": "Hospital",
    "lille": "billeder/uploadede_billeder/9/trump_1188567264_UP_34.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/9/1188567264_UP_34.jpg",
    "noegleord": "Grønland,Upernavik, Hospital, hus",
    "oprettet": "2008-08-10 20:39:31"
@@ -189,6 +199,7 @@
    "by_id": 3,
    "tekst": "Skib i tåge",
    "lille": "billeder/uploadede_billeder/3/trump_1188567652_Qaanaaq_08.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/3/1188567652_Qaanaaq_08.jpg",
    "noegleord": "Grønland,Rolf Müller,Qaarnaaq, skib, tåge, vand",
    "oprettet": "2008-08-11 10:37:56"
@@ -198,6 +209,7 @@
    "by_id": 3,
    "tekst": "Qaarnaaq i tåge",
    "lille": "billeder/uploadede_billeder/3/trump_1188567759_Qaanaaq_05.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/3/1188567759_Qaanaaq_05.jpg",
    "noegleord": "Grønland,Rolf Müller,Qaarnaaq,tåge,vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -207,6 +219,7 @@
    "by_id": 3,
    "tekst": "Isbjerg",
    "lille": "billeder/uploadede_billeder/3/trump_1188567834_Qaanaaq_19.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/3/1188567834_Qaanaaq_19.jpg",
    "noegleord": "Grønland,Rolf Müller,Qaarnaaq,isbjerg,is,vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -216,6 +229,7 @@
    "by_id": 3,
    "tekst": "Isbjerg",
    "lille": "billeder/uploadede_billeder/3/trump_1188567875_Qaanaaq_07.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/3/1188567875_Qaanaaq_07.jpg",
    "noegleord": "Grønland,Rolf Müller,Qaarnaaq,isbjerg,is,vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -225,6 +239,7 @@
    "by_id": 3,
    "tekst": "Grønlandsk familie",
    "lille": "billeder/uploadede_billeder/3/trump_1188567933_Qaanaaq_09.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/3/1188567933_Qaanaaq_09.jpg",
    "noegleord": "Grønland,Rolf Müller,Qaarnaaq, familie",
    "oprettet": "2008-08-10 20:39:31"
@@ -234,6 +249,7 @@
    "by_id": 8,
    "tekst": "Sarpik Ittuk",
    "lille": "billeder/uploadede_billeder/8/trump_1188568154_K_12.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568154_K_12.jpg",
    "noegleord": "Grønland,Kullorsuaq, vand, Sarpik Ittuk, skib",
    "oprettet": "2008-08-10 20:39:31"
@@ -243,6 +259,7 @@
    "by_id": 8,
    "tekst": "Båd",
    "lille": "billeder/uploadede_billeder/8/trump_1188568247_K_48.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568247_K_48.jpg",
    "noegleord": "Grønland,Kullorsuaq, båd, vand, ",
    "oprettet": "2008-08-10 20:39:31"
@@ -252,6 +269,7 @@
    "by_id": 8,
    "tekst": "Båd",
    "lille": "billeder/uploadede_billeder/8/trump_1188568281_K_50.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568281_K_50.jpg",
    "noegleord": "Grønland,Kullorsuaq, båd, vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -261,6 +279,7 @@
    "by_id": 8,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/8/trump_1188568337_K_37.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568337_K_37.jpg",
    "noegleord": "Grønland,Kullorsuaq,by",
    "oprettet": "2008-08-10 20:39:31"
@@ -270,6 +289,7 @@
    "by_id": 8,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/8/trump_1188568361_K_38.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568361_K_38.jpg",
    "noegleord": "Grønland,Kullorsuaq, by",
    "oprettet": "2008-08-10 20:39:31"
@@ -279,6 +299,7 @@
    "by_id": 8,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/8/trump_1188568425_K_42.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568425_K_42.jpg",
    "noegleord": "Grønland,Kullorsuaq, by",
    "oprettet": "2008-08-10 20:39:31"
@@ -288,6 +309,7 @@
    "by_id": 8,
    "tekst": "Sarpik Ittuk",
    "lille": "billeder/uploadede_billeder/8/trump_1188568456_K_39.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568456_K_39.jpg",
    "noegleord": "Grønland,Kullorsuaq, sarpik Ittuk, skib, vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -297,6 +319,7 @@
    "by_id": 8,
    "tekst": "Grønlandsk hjem",
    "lille": "billeder/uploadede_billeder/8/trump_1188568536_K16.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568536_K16.jpg",
    "noegleord": "Grønland,Kullorsuaq, grønlandsk hjem",
    "oprettet": "2008-08-10 20:39:31"
@@ -306,6 +329,7 @@
    "by_id": 8,
    "tekst": "Aftensol",
    "lille": "billeder/uploadede_billeder/8/trump_1188568602_K_19.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568602_K_19.jpg",
    "noegleord": "Grønland,Kullorsuaq, is, aftensol, vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -315,6 +339,7 @@
    "by_id": 8,
    "tekst": "aftensol",
    "lille": "billeder/uploadede_billeder/8/trump_1188568638_K_20.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568638_K_20.jpg",
    "noegleord": "Grønland,Kullorsuaq, is, aftensol, vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -324,6 +349,7 @@
    "by_id": 8,
    "tekst": "aftensol",
    "lille": "billeder/uploadede_billeder/8/trump_1188568663_K_23.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568663_K_23.jpg",
    "noegleord": "Grønland,Kullorsuaq, is, aftensol, vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -333,6 +359,7 @@
    "by_id": 8,
    "tekst": "Is",
    "lille": "billeder/uploadede_billeder/8/trump_1188568707_K_28.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568707_K_28.jpg",
    "noegleord": "Grønland,Kullorsuaq, is, vand",
    "oprettet": "2008-08-10 20:39:31"
@@ -342,6 +369,7 @@
    "by_id": 8,
    "tekst": "Grøndlændervending ",
    "lille": "billeder/uploadede_billeder/8/trump_1188568897_K_02.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568897_K_02.jpg",
    "noegleord": "Grønland,Kullorsuaq, vand, Kajak ",
    "oprettet": "2008-08-10 20:39:31"
@@ -351,6 +379,7 @@
    "by_id": 8,
    "tekst": "Grøndlændervending ",
    "lille": "billeder/uploadede_billeder/8/trump_1188568923_K01.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568923_K01.jpg",
    "noegleord": "Grønland,Kullorsuaq, vand, Kajak ",
    "oprettet": "2008-08-10 20:39:31"
@@ -360,6 +389,7 @@
    "by_id": 8,
    "tekst": "Grøndlændervending ",
    "lille": "billeder/uploadede_billeder/8/trump_1188568939_K_06.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568939_K_06.jpg",
    "noegleord": "Grønland,Kullorsuaq, vand, Kajak ",
    "oprettet": "2008-08-10 20:39:31"
@@ -369,6 +399,7 @@
    "by_id": 8,
    "tekst": "Is",
    "lille": "billeder/uploadede_billeder/8/trump_1188568966_K_29.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188568966_K_29.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:31"
@@ -378,6 +409,7 @@
    "by_id": 8,
    "tekst": "Djævlens tommelfinger",
    "lille": "billeder/uploadede_billeder/8/trump_1188569074_K_30.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/8/1188569074_K_30.jpg",
    "noegleord": "Grønland,Kullorsuaq,vand,fleld ",
    "oprettet": "2008-08-10 20:39:31"
@@ -387,6 +419,7 @@
    "by_id": 12,
    "tekst": "Kirke",
    "lille": "billeder/uploadede_billeder/12/trump_1188571582_Sisimiut_21.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188571582_Sisimiut_21.jpg",
    "noegleord": "Grønland,Sisimiut, kirke",
    "oprettet": "2008-08-10 20:39:31"
@@ -396,6 +429,7 @@
    "by_id": 12,
    "tekst": "Isbjørn",
    "lille": "billeder/uploadede_billeder/12/trump_1188633591_Sisimiut_07.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188633591_Sisimiut_07.jpg",
    "noegleord": "Grønland,Isbjørn, Sisimiut, iskiosk",
    "oprettet": "2008-08-10 20:39:31"
@@ -405,6 +439,7 @@
    "by_id": 13,
    "tekst": "Lufthavn",
    "lille": "billeder/uploadede_billeder/13/trump_1188726401_Kang_05.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726401_Kang_05.jpg",
    "noegleord": "Grønland,Kangerlussuaq, lufthavn, ",
    "oprettet": "2008-08-10 20:39:31"
@@ -414,6 +449,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726490_Kang_06.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726490_Kang_06.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -423,6 +459,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726542_Kang_09.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726542_Kang_09.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -432,6 +469,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726591_Kang_07.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726591_Kang_07.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -441,6 +479,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726681_Kang_10.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726681_Kang_10.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -450,6 +489,7 @@
    "by_id": 13,
    "tekst": "Viking Polaris",
    "lille": "billeder/uploadede_billeder/13/trump_1188726761_Viking_Polaris.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726761_Viking_Polaris.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -459,6 +499,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726812_Kang_03.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726812_Kang_03.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -468,6 +509,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726851_Kang_01.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726851_Kang_01.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -477,6 +519,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726887_Kangerlussuaq_2003.-1.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726887_Kangerlussuaq_2003.-1.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -486,6 +529,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726961_Kang_11.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726961_Kang_11.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -495,6 +539,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188726984_Kang_12.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188726984_Kang_12.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -504,6 +549,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188727013_Kang_13.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188727013_Kang_13.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -513,6 +559,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188727047_Kang_15.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188727047_Kang_15.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -522,6 +569,7 @@
    "by_id": 13,
    "tekst": "Kangerlussuaq",
    "lille": "billeder/uploadede_billeder/13/trump_1188727082_Kang_17.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188727082_Kang_17.jpg",
    "noegleord": "Grønland,Kangerlussuaq",
    "oprettet": "2008-08-10 20:39:31"
@@ -531,6 +579,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188737955_Uummannaq_99-2.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188737955_Uummannaq_99-2.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -540,6 +589,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188737980_Uummannaq_05-2.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188737980_Uummannaq_05-2.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -549,6 +599,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188737993_Uummannaq_99-1.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188737993_Uummannaq_99-1.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -558,6 +609,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738023_Uummannaq_32.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738023_Uummannaq_32.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -567,6 +619,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738041_Uummannaq_31.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738041_Uummannaq_31.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -576,6 +629,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738061_Uummannaq_31_tif.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738061_Uummannaq_31_tif.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -585,6 +639,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738081_Uummannaq_27.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738081_Uummannaq_27.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -594,6 +649,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738124_Uummannaq_26.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738124_Uummannaq_26.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -603,6 +659,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738189_Uummannaq_23.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738189_Uummannaq_23.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -612,6 +669,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738221_Uummannaq_22.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738221_Uummannaq_22.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -621,6 +679,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738239_Uummannaq_21.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738239_Uummannaq_21.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -630,6 +689,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738257_Uummannaq_20.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738257_Uummannaq_20.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -639,6 +699,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738295_Uummannaq_19.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738295_Uummannaq_19.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -648,6 +709,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738332_Uummannaq_16.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738332_Uummannaq_16.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -657,6 +719,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738349_Uummannaq_15.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738349_Uummannaq_15.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -666,6 +729,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738424_Uummannaq_14.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738424_Uummannaq_14.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -675,6 +739,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738455_Uummannaq_13.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738455_Uummannaq_13.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -684,6 +749,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738476_Uummannaq_12.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738476_Uummannaq_12.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -693,6 +759,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738580_Uummannaq_11.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738580_Uummannaq_11.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -702,6 +769,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738596_Uummannaq_09.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738596_Uummannaq_09.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -711,6 +779,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738675_Uummannaq_07.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738675_Uummannaq_07.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -720,6 +789,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738694_Uummannaq_06.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738694_Uummannaq_06.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -729,6 +799,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738738_Uummannaq_03.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738738_Uummannaq_03.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -738,6 +809,7 @@
    "by_id": 6,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/6/trump_1188738757_Uummannaq_01.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/6/1188738757_Uummannaq_01.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -747,6 +819,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188738863_Maage.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188738863_Maage.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -756,6 +829,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188738876_Ilulissat_08.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188738876_Ilulissat_08.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -765,6 +839,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188738907_Ilu65.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188738907_Ilu65.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -774,6 +849,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188738922_Ilu_Hotel_Arctic_49.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188738922_Ilu_Hotel_Arctic_49.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -783,6 +859,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188738937_Ilu_66.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188738937_Ilu_66.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -792,6 +869,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188738953_Ilu_63.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188738953_Ilu_63.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -801,6 +879,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188738968_Ilu_62.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188738968_Ilu_62.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -810,6 +889,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188738994_Ilu_61.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188738994_Ilu_61.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -819,6 +899,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739025_Ilu_59.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739025_Ilu_59.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -828,6 +909,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739056_Ilu_58.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739056_Ilu_58.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -837,6 +919,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739080_Ilu_55.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739080_Ilu_55.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -846,6 +929,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739113_Ilu_54.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739113_Ilu_54.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -855,6 +939,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739135_Ilu_53.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739135_Ilu_53.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -864,6 +949,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739153_Ilu_52.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739153_Ilu_52.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -873,6 +959,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739170_Ilu_51.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739170_Ilu_51.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -882,6 +969,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739187_Ilu_49.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739187_Ilu_49.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -891,6 +979,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739226_Ilu_48.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739226_Ilu_48.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -900,6 +989,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739243_Ilu_46.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739243_Ilu_46.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -909,6 +999,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739301_Ilu_43.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739301_Ilu_43.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -918,6 +1009,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739324_Ilu_42-.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739324_Ilu_42-.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -927,6 +1019,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739351_Ilu_41.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739351_Ilu_41.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -936,6 +1029,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739383_Ilu_40-.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739383_Ilu_40-.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -945,6 +1039,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739397_Ilu_39.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739397_Ilu_39.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -954,6 +1049,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739409_Ilu_38.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739409_Ilu_38.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -963,6 +1059,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739422_Ilu_37.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739422_Ilu_37.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -972,6 +1069,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739437_Ilu_36.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739437_Ilu_36.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -981,6 +1079,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739479_Ilu_34.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739479_Ilu_34.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -990,6 +1089,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739500_Ilu_35.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739500_Ilu_35.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -999,6 +1099,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739537_Ilu_33.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739537_Ilu_33.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1008,6 +1109,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739556_Ilu_32.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739556_Ilu_32.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1017,6 +1119,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739571_Ilu_31.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739571_Ilu_31.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1026,6 +1129,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739581_Ilu_30.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739581_Ilu_30.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1035,6 +1139,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739592_Ilu_29.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739592_Ilu_29.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1044,6 +1149,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739604_Ilu_28.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739604_Ilu_28.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1053,6 +1159,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739625_Ilu_27.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739625_Ilu_27.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1062,6 +1169,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739637_Ilu_26.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739637_Ilu_26.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1071,6 +1179,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739650_Ilu_25.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739650_Ilu_25.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1080,6 +1189,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739661_ilu_24.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739661_ilu_24.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1089,6 +1199,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739670_Ilu_23-.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739670_Ilu_23-.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1098,6 +1209,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739740_Ilu_22.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739740_Ilu_22.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1107,6 +1219,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739753_Ilu_21.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739753_Ilu_21.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1116,6 +1229,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739766_Ilu_20.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739766_Ilu_20.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1125,6 +1239,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739776_Ilu_19.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739776_Ilu_19.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1134,6 +1249,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739790_Ilu_18.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739790_Ilu_18.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1143,6 +1259,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739811_Ilu_17.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739811_Ilu_17.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1152,6 +1269,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739849_Ilu_16.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739849_Ilu_16.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1161,6 +1279,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739876_Ilu_15.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739876_Ilu_15.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1170,6 +1289,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739892_Ilu_14.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739892_Ilu_14.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1179,6 +1299,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739904_Ilu_13.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739904_Ilu_13.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1188,6 +1309,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739930_Ilu_12.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739930_Ilu_12.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1197,6 +1319,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739966_Ilu_11.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739966_Ilu_11.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1206,6 +1329,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188739985_ilu_10.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188739985_ilu_10.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1215,6 +1339,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740017_Ilu_09.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740017_Ilu_09.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1224,6 +1349,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740031_Ilu_08.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740031_Ilu_08.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1233,6 +1359,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740043_Ilu_07.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740043_Ilu_07.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1242,6 +1369,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740055_Ilu_06.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740055_Ilu_06.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1251,6 +1379,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740538_Us7.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740538_Us7.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1260,6 +1389,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740555_Hs9.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740555_Hs9.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1269,6 +1399,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740568_Hs8.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740568_Hs8.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1278,6 +1409,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740587_Hs6.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740587_Hs6.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1287,6 +1419,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740599_Hs5.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740599_Hs5.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1296,6 +1429,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740617_Hs4.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740617_Hs4.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1305,6 +1439,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740641_Hs3.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740641_Hs3.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1314,6 +1449,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740657_Hs2.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740657_Hs2.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1323,6 +1459,7 @@
    "by_id": 1,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/1/trump_1188740669_Hs12.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740669_Hs12.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1332,6 +1469,7 @@
    "by_id": 1,
    "tekst": "hund",
    "lille": "billeder/uploadede_billeder/1/trump_1188740682_Hs10.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/1/1188740682_Hs10.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-14 19:08:12"
@@ -1341,6 +1479,7 @@
    "by_id": 16,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/16/trump_1188741081_Ritenbenk_08.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/16/1188741081_Ritenbenk_08.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1350,6 +1489,7 @@
    "by_id": 16,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/16/trump_1188741097_Ritenbenk_06.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/16/1188741097_Ritenbenk_06.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1359,6 +1499,7 @@
    "by_id": 16,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/16/trump_1188741107_Ritenbenk_05.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/16/1188741107_Ritenbenk_05.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1368,6 +1509,7 @@
    "by_id": 16,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/16/trump_1188741116_Ritenbenk_04.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/16/1188741116_Ritenbenk_04.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1377,6 +1519,7 @@
    "by_id": 16,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/16/trump_1188741128_Ritenbenk_03.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/16/1188741128_Ritenbenk_03.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1386,6 +1529,7 @@
    "by_id": 16,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/16/trump_1188741140_Ritenbenk_02.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/16/1188741140_Ritenbenk_02.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1395,6 +1539,7 @@
    "by_id": 16,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/16/trump_1188741157_Ritenbenk_01.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/16/1188741157_Ritenbenk_01.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1404,6 +1549,7 @@
    "by_id": 7,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/7/trump_1188742734_Mand_fra_Tasiusaq.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/7/1188742734_Mand_fra_Tasiusaq.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1413,6 +1559,7 @@
    "by_id": 7,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/7/trump_1188742746_Kvinde_fra_Tasiusaq.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/7/1188742746_Kvinde_fra_Tasiusaq.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1422,6 +1569,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188742840_Ang.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188742840_Ang.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1431,6 +1579,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188742869_GK_juni_2004.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188742869_GK_juni_2004.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1440,6 +1589,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743567_Aasiaat_23.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743567_Aasiaat_23.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1449,6 +1599,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743592_Aasiaat_22.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743592_Aasiaat_22.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1458,6 +1609,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743604_Aasiaat_21.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743604_Aasiaat_21.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1467,6 +1619,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743633_Aasiaat_20.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743633_Aasiaat_20.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1476,6 +1629,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743702_Aasiaat_19.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743702_Aasiaat_19.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1485,6 +1639,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743713_Aasiaat_18.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743713_Aasiaat_18.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1494,6 +1649,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743744_Aasiaat_17.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743744_Aasiaat_17.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1503,6 +1659,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743761_Aasiaat_16.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743761_Aasiaat_16.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1512,6 +1669,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743790_Aasiaat_15.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743790_Aasiaat_15.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1521,6 +1679,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743805_Aasiaat_14.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743805_Aasiaat_14.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1530,6 +1689,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188743820_Aasiaat_13.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188743820_Aasiaat_13.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1539,6 +1699,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744175_Aasiaat_12.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744175_Aasiaat_12.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1548,6 +1709,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744205_Aasiaat_11.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744205_Aasiaat_11.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1557,6 +1719,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744221_Aasiaat_10.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744221_Aasiaat_10.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1566,6 +1729,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744238_Aasiaat_9.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744238_Aasiaat_9.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1575,6 +1739,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744261_Aasiaat_8.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744261_Aasiaat_8.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1584,6 +1749,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744282_Aasiaat_7.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744282_Aasiaat_7.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1593,6 +1759,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744295_Aasiaat_6.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744295_Aasiaat_6.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1602,6 +1769,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744312_Aasiaat_3.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744312_Aasiaat_3.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1611,6 +1779,7 @@
    "by_id": 14,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/14/trump_1188744348_Aasiaat_2.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/14/1188744348_Aasiaat_2.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1620,6 +1789,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188744905_Qasi.61.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188744905_Qasi.61.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1629,6 +1799,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745055_Qasi.60.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745055_Qasi.60.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1638,6 +1809,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745075_Qasi.59.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745075_Qasi.59.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1647,6 +1819,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745101_Qasi.58.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745101_Qasi.58.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1656,6 +1829,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745296_Qasi.57.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745296_Qasi.57.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1665,6 +1839,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745328_Qasi.56.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745328_Qasi.56.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1674,6 +1849,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745422_Qasi.55.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745422_Qasi.55.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1683,6 +1859,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745453_Qasi.54.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745453_Qasi.54.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1692,6 +1869,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745488_Qasi.53.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745488_Qasi.53.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1701,6 +1879,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745514_Qasi.00.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745514_Qasi.00.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1710,6 +1889,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188745737_Qasi.1.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188745737_Qasi.1.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1719,6 +1899,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188746254_Qasi.03.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188746254_Qasi.03.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1728,6 +1909,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188746419_Qasi.05.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188746419_Qasi.05.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1737,6 +1919,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188746465_Qasi.09.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188746465_Qasi.09.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1746,6 +1929,7 @@
    "by_id": 10,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/10/trump_1188746493_Qasi.07.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/10/1188746493_Qasi.07.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1755,6 +1939,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746617_0001.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746617_0001.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1764,6 +1949,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746642_0002.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746642_0002.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1773,6 +1959,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746652_0005.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746652_0005.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1782,6 +1969,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746661_0006.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746661_0006.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1791,6 +1979,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746669_0007.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746669_0007.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1800,6 +1989,7 @@
    "by_id": 15,
    "tekst": "Slædehunde",
    "lille": "billeder/uploadede_billeder/15/trump_1188746685_0008.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746685_0008.jpg",
    "noegleord": "Grønland,Rolf Müller, Slædehunde, Tasiilaq",
    "oprettet": "2008-08-10 20:39:32"
@@ -1809,6 +1999,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746694_0009.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746694_0009.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1818,6 +2009,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746706_0010.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746706_0010.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1827,6 +2019,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746715_0011.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746715_0011.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1836,6 +2029,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746739_0012.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746739_0012.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1845,6 +2039,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746752_0013.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746752_0013.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1854,6 +2049,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746778_0015.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746778_0015.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1863,6 +2059,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746786_0016.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746786_0016.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1872,6 +2069,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746794_0017.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746794_0017.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1881,6 +2079,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746803_0018.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746803_0018.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1890,6 +2089,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746828_0020.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746828_0020.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1899,6 +2099,7 @@
    "by_id": 15,
    "tekst": "Isbjerg",
    "lille": "billeder/uploadede_billeder/15/trump_1188746837_0019.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746837_0019.jpg",
    "noegleord": "Grønland,Rolf Müller,Tasiilaq,Isbjeg, ",
    "oprettet": "2008-08-10 20:39:32"
@@ -1908,6 +2109,7 @@
    "by_id": 15,
    "tekst": "Slædehunde i høj sne",
    "lille": "billeder/uploadede_billeder/15/trump_1188746897_0003.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746897_0003.jpg",
    "noegleord": "Grønland,Tasiilaq,hunde,sne, ",
    "oprettet": "2008-08-10 20:39:32"
@@ -1917,6 +2119,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1188746906_0004.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/15/1188746906_0004.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1926,6 +2129,7 @@
    "by_id": 7,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/7/trump_1188763366_Forside_Nan.2.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/7/1188763366_Forside_Nan.2.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1935,6 +2139,7 @@
    "by_id": 7,
    "tekst": "Aviaaja i festdragt",
    "lille": "billeder/uploadede_billeder/7/trump_1188763405_Nanortalik_1.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/7/1188763405_Nanortalik_1.jpg",
    "noegleord": "Grønland,Nanortalik,festdragt,pige",
    "oprettet": "2008-08-10 20:39:32"
@@ -1944,6 +2149,7 @@
    "by_id": 7,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/7/trump_1188763431_Nanortalik_set_fra_nord.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/7/1188763431_Nanortalik_set_fra_nord.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1953,6 +2159,7 @@
    "by_id": 7,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/7/trump_1188763456_Nanortalik_kolonihavn_a.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/7/1188763456_Nanortalik_kolonihavn_a.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1962,6 +2169,7 @@
    "by_id": 7,
    "tekst": "Nanortalik i sne",
    "lille": "billeder/uploadede_billeder/7/trump_1188763485_Nan.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/7/1188763485_Nan.jpg",
    "noegleord": "Grønland,Nanortalik, by, sne",
    "oprettet": "2008-08-10 20:39:32"
@@ -1971,6 +2179,7 @@
    "by_id": 7,
    "tekst": "Fanger i kajak",
    "lille": "billeder/uploadede_billeder/7/trump_1188763523_Kajak_nanortalik.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/7/1188763523_Kajak_nanortalik.jpg",
    "noegleord": "Grønland,Nanortalik,fanger,kajak,isbjerg",
    "oprettet": "2008-08-10 20:39:32"
@@ -1980,6 +2189,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188763961_Sisimiut_02.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188763961_Sisimiut_02.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1989,6 +2199,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764038_Sisimiut_03.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764038_Sisimiut_03.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -1998,6 +2209,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764066_Sisimiut_06.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764066_Sisimiut_06.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2007,6 +2219,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764094_Sisimiut_09.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764094_Sisimiut_09.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2016,6 +2229,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764158_Sisimiut_10.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764158_Sisimiut_10.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2025,6 +2239,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764187_Sisimiut_11.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764187_Sisimiut_11.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2034,6 +2249,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764209_Sisimiut_15.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764209_Sisimiut_15.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2043,6 +2259,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764232_Sisimiut_12.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764232_Sisimiut_12.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2052,6 +2269,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764258_Sisimiut_18.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764258_Sisimiut_18.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2061,6 +2279,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764285_Sisimiut_20.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764285_Sisimiut_20.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2070,6 +2289,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764364_Sisimiut_22.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764364_Sisimiut_22.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2079,6 +2299,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764391_Sisimiut_23.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764391_Sisimiut_23.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2088,6 +2309,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764412_Sisimiut_28.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764412_Sisimiut_28.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2097,6 +2319,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764434_Sisimiut_29.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764434_Sisimiut_29.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2106,6 +2329,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764460_Sisimiut_30.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764460_Sisimiut_30.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2115,6 +2339,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764479_Sisimiut_31.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764479_Sisimiut_31.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2124,6 +2349,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764504_Sisimiut_33.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764504_Sisimiut_33.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2133,6 +2359,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764526_Sisimiut_34.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764526_Sisimiut_34.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2142,6 +2369,7 @@
    "by_id": 12,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/12/trump_1188764550_Sisimiut_35.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/12/1188764550_Sisimiut_35.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2151,6 +2379,7 @@
    "by_id": 13,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/13/trump_1188764694_Ishotel_Kang..jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188764694_Ishotel_Kang..jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2160,6 +2389,7 @@
    "by_id": 13,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/13/trump_1188764750_Itilleq_syd_Kang__06.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188764750_Itilleq_syd_Kang__06.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2169,6 +2399,7 @@
    "by_id": 13,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/13/trump_1188764813_Itilleq_syd_Kang_01.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188764813_Itilleq_syd_Kang_01.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2178,6 +2409,7 @@
    "by_id": 13,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/13/trump_1188764857_Itilleq_syd_Kang_08.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188764857_Itilleq_syd_Kang_08.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2187,6 +2419,7 @@
    "by_id": 13,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/13/trump_1188764883_Kang_02.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188764883_Kang_02.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2196,6 +2429,7 @@
    "by_id": 13,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/13/trump_1188764971_Kang_09.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/13/1188764971_Kang_09.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2008-08-10 20:39:32"
@@ -2205,6 +2439,7 @@
    "by_id": 20,
    "tekst": "Hjortetakken",
    "lille": "billeder/uploadede_billeder/20/trump_1190445861_Hjortetakken.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/20/1190445861_Hjortetakken.jpg",
    "noegleord": "Grønland,Nuuk,Hjortetakken, ",
    "oprettet": "2008-08-10 20:39:32"
@@ -2214,6 +2449,7 @@
    "by_id": 20,
    "tekst": "Hans Egedes hus",
    "lille": "billeder/uploadede_billeder/20/trump_1190445932_Hans_Egedes_hus.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/20/1190445932_Hans_Egedes_hus.jpg",
    "noegleord": "Grønland,Nuuk, Hans Egedes hus",
    "oprettet": "2008-08-10 20:39:32"
@@ -2223,6 +2459,7 @@
    "by_id": 20,
    "tekst": "Præstefjorden",
    "lille": "billeder/uploadede_billeder/20/trump_1190458338_Praestefjorden.jpg",
+   "medium": "",
    "stor": "billeder/uploadede_billeder/20/1190458338_Praestefjorden.jpg",
    "noegleord": "Grønland, Nuuk, Præstefjorden",
    "oprettet": "2008-08-10 20:39:32"
@@ -2232,6 +2469,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271280_ZQ2S0081.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271280_ZQ2S0081.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271280_ZQ2S0081.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:34:41"
@@ -2241,6 +2479,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271512_ZQ2S0076.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271512_ZQ2S0076.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271512_ZQ2S0076.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:38:33"
@@ -2250,6 +2489,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271545_ZQ2S0072.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271545_ZQ2S0072.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271545_ZQ2S0072.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:39:06"
@@ -2259,6 +2499,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271568_ZQ2S0069.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271568_ZQ2S0069.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271568_ZQ2S0069.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:39:30"
@@ -2268,6 +2509,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271603_ZQ2S0068.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271603_ZQ2S0068.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271603_ZQ2S0068.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:40:05"
@@ -2277,6 +2519,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271651_ZQ2S0070.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271651_ZQ2S0070.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271651_ZQ2S0070.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:40:52"
@@ -2286,6 +2529,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271741_ZQ2S0012a.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271741_ZQ2S0012a.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271741_ZQ2S0012a.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:42:22"
@@ -2295,6 +2539,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271765_ZQ2S0078.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271765_ZQ2S0078.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271765_ZQ2S0078.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:42:46"
@@ -2304,6 +2549,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271804_ZQ2S0079.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271804_ZQ2S0079.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271804_ZQ2S0079.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:43:25"
@@ -2313,6 +2559,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271837_ZQ2S0063.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271837_ZQ2S0063.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271837_ZQ2S0063.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:43:59"
@@ -2322,6 +2569,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271881_ZQ2S0058.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271881_ZQ2S0058.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271881_ZQ2S0058.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:44:42"
@@ -2331,6 +2579,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271904_ZQ2S0056.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271904_ZQ2S0056.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271904_ZQ2S0056.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:45:05"
@@ -2340,6 +2589,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271930_ZQ2S0041.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271930_ZQ2S0041.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271930_ZQ2S0041.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:45:31"
@@ -2349,6 +2599,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271948_ZQ2S0040.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271948_ZQ2S0040.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271948_ZQ2S0040.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:45:50"
@@ -2358,6 +2609,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271973_ZQ2S0038.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271973_ZQ2S0038.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271973_ZQ2S0038.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:46:14"
@@ -2367,6 +2619,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358271994_ZQ2S0033.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358271994_ZQ2S0033.jpg",
    "stor": "billeder/uploadede_billeder/15/1358271994_ZQ2S0033.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:46:36"
@@ -2376,6 +2629,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358272013_ZQ2S0031.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358272013_ZQ2S0031.jpg",
    "stor": "billeder/uploadede_billeder/15/1358272013_ZQ2S0031.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:46:55"
@@ -2385,6 +2639,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358272037_ZQ2S0046.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358272037_ZQ2S0046.jpg",
    "stor": "billeder/uploadede_billeder/15/1358272037_ZQ2S0046.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:47:19"
@@ -2394,6 +2649,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358272058_ZQ2S0060.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358272058_ZQ2S0060.jpg",
    "stor": "billeder/uploadede_billeder/15/1358272058_ZQ2S0060.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:47:39"
@@ -2403,6 +2659,7 @@
    "by_id": 15,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/15/trump_1358272081_ZQ2S0054.jpg",
+   "medium": "billeder/uploadede_billeder/15/medium_1358272081_ZQ2S0054.jpg",
    "stor": "billeder/uploadede_billeder/15/1358272081_ZQ2S0054.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 17:48:03"
@@ -2412,6 +2669,7 @@
    "by_id": 3,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/3/trump_1358273249__T1Q1011a.jpg",
+   "medium": "billeder/uploadede_billeder/3/medium_1358273249__T1Q1011a.jpg",
    "stor": "billeder/uploadede_billeder/3/1358273249__T1Q1011a.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 18:07:30"
@@ -2421,6 +2679,7 @@
    "by_id": 3,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/3/trump_1358273291__T1Q1015a.jpg",
+   "medium": "billeder/uploadede_billeder/3/medium_1358273291__T1Q1015a.jpg",
    "stor": "billeder/uploadede_billeder/3/1358273291__T1Q1015a.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 18:08:13"
@@ -2430,6 +2689,7 @@
    "by_id": 3,
    "tekst": "",
    "lille": "billeder/uploadede_billeder/3/trump_1358273434__T1Q1021a.jpg",
+   "medium": "billeder/uploadede_billeder/3/medium_1358273434__T1Q1021a.jpg",
    "stor": "billeder/uploadede_billeder/3/1358273434__T1Q1021a.jpg",
    "noegleord": "Grønland,",
    "oprettet": "2013-01-15 18:10:36"

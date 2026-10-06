@@ -49,6 +49,7 @@ def main():
             "by_id": r["by_id"],
             "tekst": r["billede_txt"],
             "lille": r["billede_sti_l"],
+            "medium": r["billede_sti_m"],
             "stor": r["billede_sti_s"],
             "noegleord": r["keyword"],
             "oprettet": r["oprettede"],

@@ -1,0 +1,270 @@
+body {
+  margin: 0;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  color: #000000;
+  background: #ffffff;
+}
+
+main {
+  padding: 16px;
+}
+
+a {
+  color: #000000;
+}
+
+h1 {
+  font-size: 20px;
+  margin: 0 0 12px;
+}
+
+h2 {
+  font-size: 16px;
+  margin: 24px 0 8px;
+}
+
+img {
+  border: 0;
+}
+
+.topmenu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 20px;
+  align-items: center;
+  padding: 10px 16px;
+  background: #add2db;
+}
+
+.topmenu form {
+  margin-left: auto;
+}
+
+button,
+input[type=submit] {
+  font: inherit;
+  padding: 4px 14px;
+  cursor: pointer;
+}
+
+button.link {
+  background: none;
+  border: 0;
+  padding: 0;
+  text-decoration: underline;
+}
+
+input[type=text],
+input[type=password],
+textarea,
+select {
+  font: inherit;
+  padding: 3px;
+  box-sizing: border-box;
+}
+
+textarea {
+  width: 100%;
+  max-width: 420px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.besked {
+  margin: 0;
+  padding: 8px 16px;
+  background: #d9f0d3;
+}
+
+.fejl {
+  color: #b00000;
+}
+
+.login {
+  max-width: 320px;
+  margin: 60px auto;
+}
+
+/* Byer på forsiden af admin */
+.oversigt {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
+}
+
+.bykort {
+  position: relative;
+  width: 400px;
+  height: 535px;
+  flex: none;
+}
+
+.bykort img {
+  display: block;
+}
+
+.bykort a {
+  position: absolute;
+  height: 12px;
+  width: 65px;
+}
+
+.bykort a:hover,
+.bykort a:focus {
+  outline: 1px solid #cb161c;
+}
+
+.byliste {
+  border-collapse: collapse;
+}
+
+.byliste td {
+  padding: 3px 8px;
+}
+
+/* Billedliste for en by */
+.billedliste {
+  border-collapse: collapse;
+  margin: 12px 0;
+}
+
+.billedliste td {
+  padding: 3px;
+  vertical-align: middle;
+}
+
+.billedliste tr:nth-child(odd) {
+  background: #8dc0cd;
+}
+
+.billedliste tr:nth-child(even) {
+  background: #add2db;
+}
+
+.billedliste tr.mangler_tekst {
+  background: #ff0000;
+}
+
+.billedliste .info {
+  min-width: 280px;
+}
+
+.billedliste form {
+  margin: 0;
+}
+
+.billedliste button {
+  background: none;
+  border: 0;
+  padding: 0;
+}
+
+.upload {
+  max-width: 460px;
+  padding: 12px;
+  background: #eef6f8;
+  border: 1px solid #add2db;
+}
+
+.vand label {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-right: 14px;
+}
+
+.vand img {
+  background: #658594;
+}
+
+/* Kort-editor */
+.editor {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.vaerktoejer {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  width: 170px;
+}
+
+.vaerktoejer button[aria-pressed=true] {
+  background: #658594;
+  color: #ffffff;
+}
+
+.redigeringskort {
+  position: relative;
+  width: 400px;
+  height: 535px;
+  background: url(../billeder/gronland.jpg);
+  user-select: none;
+  touch-action: none;
+}
+
+.redigeringskort.vaerktoej-stempel {
+  cursor: crosshair;
+}
+
+.redigeringskort.vaerktoej-slet .by {
+  cursor: not-allowed;
+}
+
+.redigeringskort.vaerktoej-flyt .by {
+  cursor: move;
+}
+
+.by {
+  position: absolute;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  gap: 1px;
+  font: bold 12px 'Arial Narrow', Arial, sans-serif;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.by .prik {
+  width: 8px;
+  height: 8px;
+  background: #3d7a87;
+  flex: none;
+}
+
+.by.venstre {
+  flex-direction: row-reverse;
+}
+
+.by.valgt {
+  outline: 2px solid #cb161c;
+  outline-offset: 1px;
+}
+
+.byboks {
+  width: 220px;
+  padding: 10px;
+  background: #eef6f8;
+  border: 1px solid #add2db;
+}
+
+.byboks input[type=text] {
+  width: 100%;
+}
+
+.byboks .xy {
+  display: flex;
+  gap: 8px;
+}
+
+.ikke_gemt {
+  color: #b00000;
+}
