@@ -165,7 +165,7 @@ a {
   /* Som det gamle kort: samme blå som havet, kun kystlinjen er tegnet */
   fill: var(--hav);
   stroke: var(--kyst);
-  stroke-width: 1.5;
+  stroke-width: 3;
   stroke-linejoin: round;
   vector-effect: non-scaling-stroke;
 }
