@@ -1,0 +1,6 @@
+<Files dk>
+ ForceType application/x-httpd-php
+</Files>
+<Files en>
+ ForceType application/x-httpd-php
+</Files>

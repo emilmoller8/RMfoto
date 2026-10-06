@@ -1,0 +1,80 @@
+BODY {
+  background: #FFFFFF;
+  margin: 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+a:link{
+color:#000000;
+}
+a:visited  {
+color:#000000;
+}
+a:hover {
+  color: #999999;
+  text-decoration: underline;
+}
+
+
+h1 { 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px; 
+    font-weight: bold; 
+    color: #000000;
+ 
+ } 
+
+.logo {
+  background: #ffffff;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  bottom: 0px;
+}
+.BG_index {
+	background-color: #9ECAD5;
+}
+.opdeling_list {
+	height: 100%;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	border: 0px;
+}
+.venstre_op_list {
+	background-color: #add2db;
+	width: 20%;
+}
+
+.billede_ramme {
+	
+
+	outline:#FFFFFF;
+	outline:solid;
+	border:solid;
+	border:#FFFFFF;
+	border-bottom-color:#FFFFFF;
+	outline-color:#FFFFFF;
+	border-left-color:#FFFFFF;
+	color:#FFFFFF;
+	border-left:#FFFFFF;
+	border-left-style:solid;
+	padding:inherit;
+	
+	
+	
+}
+.billede_ramme2 {
+	border-color:#658594;
+	
+}
+.bund {
+	background-image:url(billeder/bund.JPG);
+}
+.skygge_l {
+	background-image: url(billeder/skygge/hl.png);
+}
+.skygge_v {
+	background-image:url(billeder/skygge/nl.png);
+}

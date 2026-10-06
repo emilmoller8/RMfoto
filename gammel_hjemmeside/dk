@@ -1,0 +1,20 @@
+<?PHP
+include("includes/config.php");
+$parametre = explode("/", $_SERVER['REQUEST_URI']);
+$by = mysql_query("SELECT by_id, by_navn FROM byer ");
+	while($r = mysql_fetch_array($by)) {
+    if($parametre['2']==$r["by_navn"]){
+    include('vis_billeder.php');
+    $in = true;
+    }
+    }
+if(!$in){
+switch ($parametre['2']) {
+	case 'sitemap' : include('sitemap.php');
+	break;		
+	case 'sog' : include('sog.php?sog=e');
+	break;				
+	default : include('forside.php');
+}
+}
+?>

@@ -1,0 +1,10 @@
+<?PHP
+$parametre = explode("/", $_SERVER['REQUEST_URI']);
+switch ($parametre['2']) {
+	case 'sitemap' : include('sitemap.php');
+	break;		
+	case 'sog' : include('sog.php');
+	break;				
+	default : include('forside.php');
+}
+?>

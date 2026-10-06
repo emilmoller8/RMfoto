@@ -1,0 +1,108 @@
+BODY {
+  background: #ffffff;
+  color: #000000;
+  margin: 0px;
+  padding: 0px;
+}
+
+A {
+  color: #000000;
+  text-decoration: none;
+}
+
+A:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+TD.logo {
+  background: #ffffff;
+}
+.venstre_kandt {
+	background-color: #add2db;
+	height: 1px;
+}
+.sramme {
+	height: 100%;
+	width: 100%;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	
+}
+hr {
+  border: 0;
+  	color:#658594;
+	background-color:#658594;
+	size:1;
+}
+.linje {
+	width: 100%;
+	height: 1px;
+
+
+}
+.mellemrum_top {
+	height: 40px;
+}
+.venstre_mellemrum {
+	background-color: #add2db;
+
+}
+.mellem_vk_billed {
+	width: 20px;
+}
+.mellemrum_under_top {
+	height: 50px;
+}
+.venstre_bg {
+	background-color: #add2db;
+}
+.style1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.trumpsramme {
+border:#658594;
+
+}
+.skygge_l {
+	background-image: url(billeder/skygge_h/hl.png);
+}
+.skygge_v {
+	background-image:url(billeder/skygge_h/nl.png);
+}
+.overskrift {
+font-size:24px;
+}
+
+.sitemap {
+font:Verdana, Arial, Helvetica, sans-serif;
+color: #000000;
+}
+
+.sitemap:hover {
+font:Verdana, Arial, Helvetica, sans-serif;
+color: #000000;
+text-decoration: underline;
+}
+
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 10px;
+}
+
+div.page:hover{
+	color: #000000;
+}
+
+#page2, #page3, #page4, #page5, #page6, #page7, #page8, #page9, #page10, #page11
+ , #page12, #page13, #page14, #page15, #page16, #page17, #page18, #page19, #page20 { 
+ display: none; 
+ 
+ }
