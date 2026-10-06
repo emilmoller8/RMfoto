@@ -1,5 +1,6 @@
 <?php require __DIR__ . '/includes/data.php'; ?>
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- Samme doctype som den gamle side, så layoutet bliver præcis det samme -->
 <html lang="da">
 <head>
 <meta charset="utf-8">
@@ -19,8 +20,16 @@
           <td class="logo"><img class="rm-logo" src="billeder/top_logo/rm.png" alt="RM Foto" width="36" height="30"> Fotograf <strong>Rolf Müller</strong> <span class="prik">&#8718;</span> Stationsvej 81 <span class="prik">&#8718;</span> DK 3650 Ølstykke <span class="prik">&#8718;</span> rm@rmfoto.dk <span class="prik">&#8718;</span> Mobile: +45 21 78 43 21 <span class="prik">&#8718;</span> Mobile: +45 51 51 52 18</td>
           <td align="right">
             <form method="get" action="sog.php" class="sogefelt">
-              <input name="sog" type="text" aria-label="Søg">
-              <input type="image" src="billeder/sog.gif" alt="Søg">
+              <table>
+                <tr>
+                  <td>&nbsp;</td>
+                  <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td><input name="sog" type="text" aria-label="Søg"></td>
+                  <td><input type="image" src="billeder/sog.gif" alt="Søg"></td>
+                </tr>
+              </table>
             </form>
           </td>
         </tr>
@@ -34,11 +43,11 @@
   </tr>
   <tr>
     <td width="79">&nbsp;</td>
-    <td valign="top"><p><img src="billeder/forside.jpg" alt="forside billede" width="450" height="419"></p><br></td>
-    <td valign="top">
+    <td><p><img src="billeder/forside.jpg" alt="forside billede" width="450" height="419"></p><br></td>
+    <td>
       <table width="100%" cellspacing="0" cellpadding="0">
         <tr>
-          <td width="400" align="left" valign="top">
+          <td width="400" align="left">
             <img src="billeder/map2.jpg" alt="Kort over Grønland" width="400" height="535" usemap="#greenmap">
             <map name="greenmap">
 <?php foreach ($byer as $by):
@@ -50,7 +59,7 @@
 <?php endforeach; ?>
             </map>
           </td>
-          <td valign="top">
+          <td>
             <table width="215" cellspacing="0" cellpadding="0">
               <tr>
                 <td align="center">

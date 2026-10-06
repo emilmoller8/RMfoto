@@ -1,8 +1,4 @@
 /* Forsiden */
-html, body {
-  height: 100%;
-}
-
 body {
   background: #ffffff;
   margin: 0;
@@ -55,11 +51,8 @@ img {
   color: #cb161c;
 }
 
-.sogefelt {
-  display: flex;
-  align-items: center;
-  gap: 2px;
-  margin: 8px 4px;
+.sogefelt input[type=image] {
+  border: 0;
 }
 
 .bund {
