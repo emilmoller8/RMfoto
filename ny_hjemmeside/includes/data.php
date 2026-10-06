@@ -17,7 +17,7 @@ $byer = array_column($data['byer'], null, 'id');
 $billeder = array_column($data['billeder'], null, 'id');
 
 /** Mailadressen på siden. Den står ikke direkte i HTML'en, så spam-robotter ikke kan samle den op. */
-const KONTAKT_MAIL = 'rm@rmfoto.dk';
+const KONTAKT_MAIL = 'kontakt@rmfoto.dk';
 
 /** Escaper tekst til HTML. */
 function h(?string $tekst): string
